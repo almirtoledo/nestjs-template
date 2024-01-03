@@ -16,6 +16,7 @@
     "test": "vitest"
   },
   "dependencies": {
+    "@fastify/static": "^6.12.0",
     "@nestjs/common": "^10.0.0",
     "@nestjs/core": "^10.0.0",
     "@nestjs/platform-fastify": "^10.3.0",
